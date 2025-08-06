@@ -27,4 +27,5 @@ cv2.imshow("Edges", edges)
 cv2.imshow("Cartoon", cartoon)
 
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+
+cv2.destroyAllWindows();
